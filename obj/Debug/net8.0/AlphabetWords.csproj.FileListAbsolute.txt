@@ -1,0 +1,14 @@
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\bin\Debug\net8.0\AlphabetWords.exe
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\bin\Debug\net8.0\AlphabetWords.deps.json
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\bin\Debug\net8.0\AlphabetWords.runtimeconfig.json
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\bin\Debug\net8.0\AlphabetWords.dll
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\bin\Debug\net8.0\AlphabetWords.pdb
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\AlphabetWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\AlphabetWords.AssemblyInfoInputs.cache
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\AlphabetWords.AssemblyInfo.cs
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\AlphabetWords.csproj.CoreCompileInputs.cache
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\AlphabetWords.dll
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\refint\AlphabetWords.dll
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\AlphabetWords.pdb
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\AlphabetWords.genruntimeconfig.cache
+C:\Users\M. Bello-Mojeed\Desktop\Project\AlphabetWords\obj\Debug\net8.0\ref\AlphabetWords.dll
